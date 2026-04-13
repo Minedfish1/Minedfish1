@@ -28,7 +28,7 @@ In my free time, I play chess and read manga<br>
 ### 🔌 Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-9/10-green?style=for-the-badge&logo=arduino)
 
-### 🐝 Beecrown:https://judge.beecrowd.com/pt/profile/1229681
+### 🐝 Beecrowd:https://judge.beecrowd.com/pt/profile/1229681
 ---
 
 ## 🏋🏻‍♂️Learning
