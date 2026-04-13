@@ -22,14 +22,14 @@ In my free time, I play chess and read manga
 
 ## 🧠 Skills
 
-C            ███████░░░ 7/10  
-Java         ███████░░░ 7/10  
-C++          ██████░░░░ 6/10  
-Python       ████████░░ 8/10  
-JavaScript   █████░░░░░ 5/10  
-HTML         ████░░░░░░ 4/10  
-CSS          ████░░░░░░ 4/10  
-Arduino      █████████░ 9/10  
+C ...........███████░░░ 7/10  
+Java ........███████░░░ 7/10  
+C++ .........██████░░░░ 6/10  
+Python ......████████░░ 8/10  
+JavaScript...█████░░░░░ 5/10  
+HTML ........████░░░░░░ 4/10  
+CSS .........████░░░░░░ 4/10  
+Arduino .....█████████░ 9/10  
 
 ### 🐝 Beecrown:https://judge.beecrowd.com/pt/profile/1229681
 ---
