@@ -22,14 +22,14 @@ In my free time, I play chess and read manga
 
 ## 🧠 Skills
 
-C ...........███████░░░ 7/10  
-Java ........███████░░░ 7/10  
-C++ .........██████░░░░ 6/10  
-Python ......████████░░ 8/10  
-JavaScript...█████░░░░░ 5/10  
-HTML ........████░░░░░░ 4/10  
-CSS .........████░░░░░░ 4/10  
-Arduino .....█████████░ 9/10  
+C            ███████░░░ 7/10  
+Java         ███████░░░ 7/10  
+C++          ██████░░░░ 6/10  
+Python       ████████░░ 8/10  
+JavaScript   █████░░░░░ 5/10  
+HTML         ████░░░░░░ 4/10  
+CSS          ████░░░░░░ 4/10  
+Arduino      █████████░ 9/10  
 
 ### 🐝 Beecrown:https://judge.beecrowd.com/pt/profile/1229681
 ---
@@ -42,6 +42,31 @@ Arduino .....█████████░ 9/10
 - English
 - Calculus
 
-### Reading
+---
 
+### 📗Reading
 
+<p align="center">
+  <a href="#algorithms">
+    <img src="Img/capaAlgorithms.webp" width="120"/>
+  </a>
+  
+  <a href="#calculo">
+    <img src="Img/CapaCalculo.jpg" width="120"/>
+  </a>
+  
+  <a href="#arquitetura">
+    <img src="Img/Arquiteutra.webp" width="120"/>
+  </a>
+  
+  <a href="#scrum">
+    <img src="Img/Scrum.webp" width="120"/>
+  </a>
+</p>
+
+---
+
+## 📞Contact
+
+Email: ian.souza@sga.pucminas.br
+Discord: minedfish1
